@@ -26,6 +26,7 @@ import {
 } from 'react-native/Libraries/NewAppScreen';
 
 const App: () => React$Node = () => {
+  //Exercise 5
   console.log("Listing semester modules and recommended eats");
   return (
     <>
